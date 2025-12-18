@@ -14,9 +14,7 @@ programming environments.
 ### 🧪 Experiments & Learning Projects
 
 Testbeds for trying out: 
-- New frameworks
-- Backend or frontend concepts
-- Or anything I want to explore
+- Anything I want to explore
 
 ### 🛠️ Personal Ideas
 
